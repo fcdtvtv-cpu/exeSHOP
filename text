@@ -1,0 +1,15 @@
+shop_bot/
+├── bot.py
+├── config.py
+├── database.py
+├── keyboards.py
+├── handlers/
+│   ├── __init__.py
+│   ├── start.py
+│   ├── catalog.py
+│   ├── order.py
+│   ├── safe_deal.py
+│   ├── reviews.py
+│   └── help.py
+├── requirements.txt
+└── .env
